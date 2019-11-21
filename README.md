@@ -3,6 +3,13 @@
 A flutter package to easily mock requests.
 
 ## How to Use
+```yaml
+# pubspec.yaml
+dependencies:
+  mock:
+    git:
+      url: git://github.com/zmj97/mock.git
+```
 
 ```dart
 import 'package:mock/mock.dart' as http;
